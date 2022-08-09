@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MiPrimerRepositorio</string>
+    <string name="capitulo_1">Capitulo 1</string>
+    <string name="capitulo_2">Capitulo 2</string>
+    <string name="capitulo_3">Capitulo 3</string>
+    <string name="capitulo_4">Capitulo 4</string>
+    <string name="homero_tv">HOMERO.TV</string>
 </resources>
